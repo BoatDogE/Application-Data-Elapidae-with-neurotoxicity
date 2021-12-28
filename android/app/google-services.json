@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "420181711633",
+    "project_id": "mapper-f9907",
+    "storage_bucket": "mapper-f9907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420181711633:android:ff83931d45a38128024ab0",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420181711633-guq03jdn228h3maf1u86f38iifqthgvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "0a397a1261fabf831dd410790d8d2dcba221353a"
+          }
+        },
+        {
+          "client_id": "420181711633-bhcnmjrb0cu5mc05q43b3od4spcfh09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-1sdN8Kevsqg6o7Zf_gqWhWgTaS92uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420181711633-bhcnmjrb0cu5mc05q43b3od4spcfh09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
